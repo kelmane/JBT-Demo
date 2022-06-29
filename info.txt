@@ -1,1 +1,2 @@
-firs line in new file
+first line in new file
+second line is here
